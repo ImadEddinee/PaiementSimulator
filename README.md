@@ -57,3 +57,9 @@ The two applications communicate using Remote Method Invocation RMI
 ![Screenshot (10)](https://user-images.githubusercontent.com/74471167/182369295-590c60a5-5bbb-467f-aa2c-9378e9c9b9e9.png)
 
 
+![Screenshot (11)](https://user-images.githubusercontent.com/74471167/182408191-7ff3bde2-fe4f-4383-87eb-8459cdc037c6.png)
+
+
+![Screenshot (12)](https://user-images.githubusercontent.com/74471167/182408197-b8f41c5f-4ec5-453f-b9ad-31398304dd13.png)
+
+
