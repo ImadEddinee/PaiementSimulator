@@ -11,10 +11,10 @@ This project is divided into two subprojects
 The project covers these programming concepts:
 
 * MVC Pattern
-* Singleton Pattern to manage database connection
-* Loose Coupling
-* RMI
+* Singleton Pattern *to manage Database connection*
+* RMI *Remote Method Invocation*
 * Using Flash Messages
+* JSTL Internationalization *English or French*
 
 ### Technologies
 
